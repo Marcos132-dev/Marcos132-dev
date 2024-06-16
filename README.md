@@ -1,8 +1,12 @@
 ## Boas vindas ao meu perfil.
 
-sou estudante da Alura
+Sou estudante da Alura
+
 Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Utilizo esse espaço para minha organização e 
+
+compartilhamento dos meu projetos desenvolvidos
 <!--
 **Marcos132-dev/Marcos132-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
